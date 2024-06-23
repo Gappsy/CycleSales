@@ -1,0 +1,16 @@
+.bg_dark_blue {
+    background: #202264;
+}
+
+.bg_gray {
+    background: #F1F1F1;
+}
+
+.bg_white {
+    background: #FFFFFF;
+}
+
+.text_logo {
+    letter-spacing: 3px;
+    font-size: 20px;
+}
