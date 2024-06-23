@@ -46,6 +46,12 @@ label {
     color: #202264
 }
 
+.text_header_2 {
+    font-size: 12px;
+    font-weight: bold;
+    color: #525252;
+}
+
 .text_link {
     font-size: 12px;
     font-weight: 500;
@@ -54,4 +60,14 @@ label {
 .text_link a {
     color: #1A20C5;
     text-decoration: none;
+}
+
+.text_requirements {
+    font-size: 12px;
+    color: #525252;
+}
+
+.text_requirements i {
+    font-size: 10px;
+    margin-right: 5px;
 }
