@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Customer Login</title>
     <?php include '../views/html_resources.php';?>
-    <link rel="stylesheet" href="../assets/css/shop_login.css">
+    <link rel="stylesheet" href="../assets/css/shop_forms.css">
 </head>
 <body class="bg_white">
     <div class="bg_dark_blue container-fluid position-absolute">
@@ -40,7 +40,7 @@
                             <button type="submit" class="btn btn-primary w-100 rounded-1 p-2">Login</button>
                         </div>
                         <div class="text_link mb-3 text-center">
-                            <p>Not a member? <a href="shop_register.php">Create an Account</a></p>
+                            <p>Don't have an account? <a href="shop_register.php">Create an Account</a></p>
                         </div>
                     </div>
                 </form>
