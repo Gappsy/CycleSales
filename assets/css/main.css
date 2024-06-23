@@ -14,3 +14,8 @@
     letter-spacing: 3px;
     font-size: 20px;
 }
+
+.focus-ring {
+    --bs-focus-ring-width: none;
+    --bs-focus-ring-color: none;
+}
