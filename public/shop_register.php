@@ -27,26 +27,26 @@
                         <div class="mb-3 row">
                             <div class="col-md-6 m-0">
                                 <label for="first_name" class="form-label">First Name</label>
-                                <input type="text" class="form-control rounded-1 focus-ring" id="first_name" name="first_name" required>
+                                <input type="text" class="form-control rounded-1 focus-ring" id="first_name" name="first_name" placeholder="Joanna" required>
                             </div>
                             <div class="col-md-6 m-0">
-                                <label for="first_name" class="form-label">Last Name</label>
-                                <input type="text" class="form-control rounded-1 focus-ring" id="first_name" name="first_name" required>
+                                <label for="last_name" class="form-label">Last Name</label>
+                                <input type="text" class="form-control rounded-1 focus-ring" id="last_name" name="last_name" placeholder="Dela Cruz" required>
                             </div>
                         </div>
                         <div class="mb-3">
                             <label for="contact_num" class="form-label">Contact Number</label>
-                            <input type="text" class="form-control rounded-1 focus-ring" id="contact_num" name="contact_num" required>
+                            <input type="text" class="form-control rounded-1 focus-ring" id="contact_num" name="contact_num" placeholder="09123456789" required>
                         </div>
                         <div class="mb-3">
                             <label for="email" class="form-label">Email</label>
-                            <input type="email" class="form-control rounded-1 focus-ring" id="email" name="email" required>
+                            <input type="email" class="form-control rounded-1 focus-ring" id="email" name="email" placeholder="my_email@example.com" required>
                         </div>
                         <div class="mb-3">
                             <label for="password" class="form-label">Password</label>
                             <input type="password" class="form-control rounded-1 focus-ring" id="password" name="password" required>
 
-                            <div class="mt-3">
+                            <div class="mt-3 ms-2">
                                 <p class="text_header_2 m-0">Must contain</p>
                                 <div class="text_requirements mb-4 ms-3">
                                     <p class="m-0"><i class="bi bi-circle-fill"></i> At least 8 characters</p>
