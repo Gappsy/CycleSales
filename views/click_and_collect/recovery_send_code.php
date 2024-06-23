@@ -30,7 +30,7 @@
                                 <p class="text_header_2 mb-2">Enter Contact Number</p>
                                 <p class="text_requirements">A verification code will be sent to your registered contact number.</p>
                             </div>
-                            <input type="contact_num" class="form-control rounded-1 focus-ring" id="contact_num" name="contact_num" required>
+                            <input type="contact_num" class="form-control rounded-1 focus-ring" id="contact_num" name="contact_num" placeholder="09123456789" required>
                         </div>
                         <div class="mb-3">
                             <button type="submit" class="btn btn-primary w-100 rounded-1 p-2">Send Code</button>
