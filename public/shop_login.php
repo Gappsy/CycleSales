@@ -33,7 +33,7 @@
                             <input type="password" class="form-control rounded-1 focus-ring" id="password" name="password" required>
 
                             <div class="text_link mb-4 mt-2 text-end">
-                                <p><a href="shop_account_recovery.php">Forgot Password</a></p>
+                                <p><a href="../views/click_and_collect/recovery_send_code.php">Forgot Password</a></p>
                             </div>
                         </div>
                         <div class="mb-3">
