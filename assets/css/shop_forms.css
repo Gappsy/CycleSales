@@ -32,14 +32,14 @@ label {
 
 .success_icon i {
     font-size: 150px;
-    color: #00A237;
+    color: #202264;
     font-weight: bold;
 }
 
 .text_header_1 {
     letter-spacing: 3px;
     font-weight: 600;
-    color: #202264
+    color: #202264;
 }
 
 .text_header_2 {
@@ -52,7 +52,7 @@ label {
     font-size: 20px;
     letter-spacing: 1px;
     font-weight: 600;
-    color: #202264 
+    color: #202264; 
 }
 
 .text_input input {
