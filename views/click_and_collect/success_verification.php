@@ -26,11 +26,11 @@
                     </div>
                     <div class="text_input">
                         <div class="success_icon text-center p-0">
-                            <i class="bi bi-check2-circle"></i>
+                            <i class="bi bi-check-circle"></i>
                             <p class="text_requirements">Your account has been verified. Click the button below to continue.</p>
                         </div>
                         <div class="mb-3">
-                            <button type="submit" class="btn btn-primary w-100 rounded-1 p-2" onclick="location.href='recovery_reset_password.php'">Continue</button>
+                            <a class="btn btn-primary w-100 rounded-1 p-2" href="recovery_reset_password.php">Continue</a>
                         </div>
                     </div>
                 </form>
